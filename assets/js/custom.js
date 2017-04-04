@@ -59,9 +59,9 @@ jQuery(function($) {
   /*-------- Owl Carousel ---------- */
     $(".reviews").owlCarousel({
 
-    slideSpeed : 200,
-    items: 1,
-    singleItem: true,
+    slideSpeed : 1000,
+    items: 3,
+    singleItem: false,
     autoPlay : true,
     pagination : false
     });
