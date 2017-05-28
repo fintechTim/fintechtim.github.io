@@ -1476,7 +1476,15 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 	color: #A1A1A1;
 }
 
+/*  --------------------------------------------------
+------------- Contact Us Section Styling -------------
+----------------------------------------------------*/
 
+.contact-section{
+	padding: 150px 0 150px 0;
+	text-align: center;
+	background: #F4F4F4;
+}
 
 /*  --------------------------------------------------
 ------------- Reviews Section Styling ----------------
