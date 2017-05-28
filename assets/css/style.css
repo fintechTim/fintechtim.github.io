@@ -1482,7 +1482,7 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 
 .contact-section{
 	padding: 150px 0 150px 0;
-	margin-top:50px;
+	margin-top:10px;
 	text-align: center;
 	background: #F4F4F4;
 }
@@ -1862,8 +1862,8 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 }
 
 .contact h1 {
-	font-family: 'Josefin Sans';
-	font-size: 21px;
+	font-family: 'Poppins';
+	font-size: 48px;
 	font-weight: 400;
 	color: #222222;
 	margin: 10px 0 10px 0;
