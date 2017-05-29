@@ -1880,7 +1880,7 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 
 .contact a {
 	font-family: 'Josefin Sans';
-	font-size: 35px;
+	font-size: 18px;
 	font-weight: 400;
 	color: #222222;
 	text-decoration: none;
@@ -2142,7 +2142,7 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 	}
 
 	.contact a {
-		font-size: 18px;
+		font-size: 30px;
 	}
 
 }
